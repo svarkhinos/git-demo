@@ -2,6 +2,3 @@ hello hello
 my friend
 are yor ready
 to the fight?
-
-1, 2, 3 
-it is me)
