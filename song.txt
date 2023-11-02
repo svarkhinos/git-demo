@@ -2,5 +2,3 @@ hello hello
 my friend
 are yor ready
 to the fight?
-
-new lines as well........
